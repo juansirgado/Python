@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "LAYER": "geografic ", "Name": "Arctic Circle", "Source": "Map of World. [1967]", "Type": "line" }, "geometry": { "type": "LineString", "coordinates": [ [-180, 66.5], [-90, 66.5], [0, 66.5], [90, 66.5], [180, 66.5] ] } }
+,
+{ "type": "Feature", "properties": { "LAYER": "geografic ", "Name": "Tropic of Cancer", "Source": "Map of World. [1967]", "Type": "line" }, "geometry": { "type": "LineString", "coordinates": [ [-180, 23.436], [-90, 23.436], [0, 23.436], [90, 23.436], [180, 23.436] ] } }
+,
+{ "type": "Feature", "properties": { "LAYER": "geografic ", "Name": "Ecuator Line", "Source": "Map of World. [1967]", "Type": "line" }, "geometry": { "type": "LineString", "coordinates": [ [-180, 0], [-90, 0], [0, 0], [90, 0], [180, 0] ] } }
+,
+{ "type": "Feature", "properties": { "LAYER": "geografic ", "Name": "Tropic of Capricorn", "Source": "Map of World. [1967]", "Type": "line" }, "geometry": { "type": "LineString", "coordinates": [ [-180, -23.436], [-90, -23.436], [0, -23.436], [90, -23.436], [180, -23.436] ] } }
+,
+{ "type": "Feature", "properties": { "LAYER": "geografic ", "Name": "Antarctic Circle Circle", "Source": "Map of World. [1967]", "Type": "line" }, "geometry": { "type": "LineString", "coordinates": [ [-180, -66.5], [-90, -66.5], [0, -66.5], [90, -66.5], [180, -66.5] ] } }
+]
+}
