@@ -1,0 +1,5 @@
+Tag1,Tag2,Field1,Field2,Field3,Field4
+myTagA,myTagX,0,1,0.02,0.1
+myTagA,myTagY,0,0,2.02,0.3
+myTagB,myTagY,0.1,0.2,0.02,0.1
+myTagB,myTagZ,4,2,0.02,0.2
